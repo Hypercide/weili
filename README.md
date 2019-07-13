@@ -1,5 +1,7 @@
-1. 课程设计教学条件要求  前台首页+后台信息管理系统
-2. 课程设计任务
+#### 预览：
+前台：[http://weili.dedsec.top/](http://weili.dedsec.top/)
+后台：[http://weili.dedsec.top/admin/homepage](http://weili.dedsec.top/admin/homepage)
+
 1、设计内容
 该项目的目的是开发一个企业门户以及后台管理的系统。因此设计就需要两部分，即前台界面设计，后台管理系统的设计。前台为企业网站首页，负责展示公司信息与展示招聘信息。后台为信息管理系统，负责各个服务的增删改查。
 
