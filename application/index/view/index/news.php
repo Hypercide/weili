@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <head>
@@ -129,16 +129,6 @@
 
             <div class="qzzp_ms_list">
                 <ul>
-                    <!-- <li>
-                        <div>
-                            <b>05</b> 
-                            <span>2019-03</span> 
-                        </div>
-                        <a href='http://www.jxwlrl.com/news/show/200'>
-                            <h2>2018年江西省人力资源服务机构 年度报告相关情况公示表</h2> 
-                            <p>2018年江西省人力资源服务机构 年度报告相关情况公示表</p>
-                        </a>
-                    </li> -->
                     {volist name="result" id="vo"}
                         <li>
                         <div>
@@ -154,11 +144,7 @@
                 </ul>
             </div>
             {$result|raw}
-            <!-- <div class="paging">
-                <a>共 14 页, 每页显示5条</a>    <b>1</b><a onclick="this.blur()" href="/news?page=2">2</a><a onclick="this.blur()" href="/news?page=3">3</a><a onclick="this.blur()" href="/news?page=4">4</a><a onclick="this.blur()" href="/news?page=5">5</a><a onclick="this.blur()" href="/news?page=6">6</a><a onclick="this.blur()" href="/news?page=7">7</a><a onclick="this.blur()" href="/news?page=8">8</a><a onclick="this.blur()" href="/news?page=9">9</a><a onclick="this.blur()" href="/news?page=10">10</a><a href="/news?page=2" onclick="this.blur()" class="next">下一页</a><a onclick="this.blur()" href="/news?page=14">末页</a> 
-            </div> -->
         </div>
-
 
 
 
